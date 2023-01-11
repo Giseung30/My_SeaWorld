@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1449238497795394838
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SeaMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 2a649fade3c41d24d8d292dd8fc3a2b8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Normal_Map:
+        m_Texture: {fileID: 2800000, guid: 5615cd2ead154a04b875d0055f3585a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_a765017c06e646c2933890c8e2bdc141: 1000
+    - _Depth: -90
+    - _Distance: 25
+    - _First_Normal_Strength: 0.1
+    - _Foam_Amount: 1.5
+    - _Foam_CutOff: 2
+    - _Foam_Power: 1.25
+    - _Foam_Scale: 1000
+    - _Foam_Speed: 7.5
+    - _Metalic: 0
+    - _Normal_Speed: 0.1
+    - _Normal_Strength: 1
+    - _Occlusion: 0.75
+    - _Pan_Speed: 0.1
+    - _Refraction_Speed: 1
+    - _Refraction_Strength: 0.00025
+    - _Second_Normal_Strength: 0.2
+    - _Smoothness: 0.75
+    - _Strength: 0.01
+    - _Wave_Height: 0.75
+    - _Wave_Scale: 1000
+    - _Wave_Speed: 0.0001
+    - _Wave_X_Up: 0
+    - _Wave_Y_Up: 1
+    - _Wave_Z_Up: 0
+    m_Colors:
+    - _Deep_Color: {r: 0.57039875, g: 0.8018868, b: 0.6784265, a: 1}
+    - _First_Normal_Scale: {r: 80, g: 40, b: 0, a: 0}
+    - _First_Normal_Speed: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Foam_Color: {r: 0.9411765, g: 0.9411765, b: 0.9411765, a: 1}
+    - _Foam_Tiling: {r: 8000, g: 4000, b: 0, a: 0}
+    - _Main_Color: {r: 0.06354573, g: 0.17653008, b: 0.3301887, a: 1}
+    - _Normal_Large_Tiling: {r: 50, g: 25, b: 0, a: 0}
+    - _Normal_Scale: {r: -50, g: -25, b: 0, a: 0}
+    - _Normal_Small_Tiling: {r: 25, g: 12.5, b: 0, a: 0}
+    - _Normal_Speed: {r: -0.05, g: 0, b: 0, a: 0}
+    - _Refraction_Scale: {r: 500, g: 250, b: 0, a: 0}
+    - _Second_Normal_Scale: {r: 40, g: 20, b: 0, a: 0}
+    - _Second_Normal_Speed: {r: -0.05, g: 0.05, b: 0, a: 0}
+    - _Shallow_Water: {r: 0.0060519623, g: 0.17370975, b: 0.18867922, a: 0.98039216}
+    - _Wave_Scale: {r: 10000, g: 5000, b: 0, a: 0}
+    - _Wave_Speed: {r: 0.0001, g: 0.0001, b: 0, a: 0}
+  m_BuildTextureStacks: []
