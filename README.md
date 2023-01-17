@@ -1,6 +1,12 @@
 # 바다 세계 만들기
 > Unity에서 SRP(Scriptable Render Pipeline)인 URP를 공부하면서 만든 프로젝트다. 
 
+<div align="center">
+  <a href="https://youtu.be/211855TICuU">
+    <img width="50%" height="50%" src="https://user-images.githubusercontent.com/60832219/213009670-5f86cc84-e490-450b-898c-81aac22ed53c.png"/>
+  </a>
+</div>
+
 ## 👍🏻 URP의 장점
 + 정식으로 제작에 사용 가능
 + 한 번만 개발하여 Unity를 지원하는 **모든 플랫폼에 배포 가능**
